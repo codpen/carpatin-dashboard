@@ -31,7 +31,7 @@ export const Navbar = () => (
       <Box sx={{ flexGrow: 1 }} />
       <Link
         color="#ffffff"
-        href="https://material-ui.com/store/items/carpatin-retail-dashboard"
+        href="https://material-ui.com/store/items/carpatin-dashboard"
         sx={{ mr: 1.25 }}
         target="_blank"
         variant="body2"

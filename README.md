@@ -11,9 +11,9 @@ Discover how Carpatin can speed up your business development by using our premiu
 
 We also have a pro version of this product which bundles even more pages and components if you want to save more time and design efforts.
 
-| Free Version (this one)  | [Carpatin Dashboard PRO](https://material-ui.com/store/items/carpatin-retail-dashboard/) |
+| Free Version (this one)  | [Carpatin Dashboard PRO](https://material-ui.com/store/items/carpatin-dashboard/) |
 | ------------------------ | ------------------------------------------------------------ |
-| **7** Demo Pages         | **20** demo pages
+| **7** Demo Pages         | **30** demo pages
 | -                        | ✔ Dark & light mode
 | -                        | ✔ Authentication with **Amplify**, **Auth0**, **Firebase** and **JWT**  
 | -                        | ✔ TypeScript version
@@ -39,11 +39,11 @@ We also have a pro version of this product which bundles even more pages and com
 
 ## Figma Files
 
-👉[Duplicate Figma file](https://www.figma.com/community/file/997881103880938459/Carpatin---Retail-%26-Back-Office-Dashboard-(Community))
+👉[Duplicate Figma file](https://www.figma.com/community/file/997881103880938459)
 
 ## More Products
 
-| [Material Kit Free](https://github.com/devias-io/material-kit-react)      | [Material Kit Pro](https://material-ui.com/store/items/carpatin-retail-dashboard/) |
+| [Material Kit Free](https://github.com/devias-io/material-kit-react)      | [Material Kit Pro](https://material-ui.com/store/items/devias-kit-pro/) |
 | ------------------------------------------------------------------------- | ------------------------------------------------------------ |
 | ![Carpatin React Dashboard](https://cdn.devias.io/github-images/material-kit-free.png) | ![Material Kit Pro](https://cdn.devias.io/github-images/material-kit-pro.png)
 

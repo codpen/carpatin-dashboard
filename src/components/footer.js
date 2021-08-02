@@ -30,7 +30,7 @@ export const Footer = () => (
         <Box sx={{ flexGrow: 1 }} />
         <Link
           color="textSecondary"
-          href="https://material-ui.com/store/items/carpatin-retail-dashboard"
+          href="https://material-ui.com/store/items/carpatin-dashboard"
           sx={{ px: 1 }}
           target="_blank"
           variant="body2"
