@@ -47,6 +47,4 @@ We also have a pro version of this product which bundles even more pages and com
 | ------------------------------------------------------------------------- | ------------------------------------------------------------ |
 | ![Carpatin React Dashboard](https://cdn.devias.io/github-images/material-kit-free.png) | ![Material Kit Pro](https://cdn.devias.io/github-images/material-kit-pro.png)
 
-## Contact Us
 
-- Email Us: [support@deviasio.zendesk.com](mailto:support@deviasio.zendesk.com)
